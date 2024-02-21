@@ -70,3 +70,9 @@ C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWe
 C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\bin\Debug\net8.0\ScreenSound.Shared.Modelos.pdb
 C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\obj\Debug\net8.0\ScreenSound.API.csproj.AssemblyReference.cache
 C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\obj\Debug\net8.0\ScreenSound.API.csproj.CopyComplete
+C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\luana\OneDrive\Documentos\projects\alura\.net\ScreenSound\3506-csharpWeb-screensound-curso1\ScreenSound.API\obj\Debug\net8.0\ScreenSound.API.MvcApplicationPartsAssemblyInfo.cs
